@@ -1,0 +1,21 @@
+.IdCard {
+    box-sizing: border-box;
+    border: black 2px solid;
+    margin: 20px;
+    display: flex;
+    width: 800px;
+    padding-top: 10 px;
+}
+
+img.m-2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 140px;
+    margin-bottom: 10px;
+}
+
+span {
+    padding-top: 10px;
+    padding-left: 10px;
+    display: flex;
+}
